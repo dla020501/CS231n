@@ -1,9 +1,5 @@
 # 2강 - Image Classification
 
-nogiCategory: Lecture 2
-nogiCommitDate: 2025/12/26 10:17 (GMT+9)
-nogiStatus: 완료
-
 # 키워드
 
 - 이미지 분류, 컴퓨터 비전, 딥러닝, 기계 학습, 의미론적 간극, 픽셀 값, 관점 변화, 클래스 내 변동, 세분화된 카테고리, 배경 혼란, 조명 변화, 변형, 가려짐, 객체 탐지, 이미지 캡셔닝, 데이터셋, MNIST, CIFAR-10, CIFAR-100, ImageNet, MIT Places, Omniglot, K-최근접 이웃 (K-Nearest Neighbor), L1 거리, L2 거리, 맨해튼 거리, 유클리드 거리, 하이퍼파라미터, 훈련 세트, 검증 세트, 테스트 세트, 교차 검증, 차원의 저주, 컨볼루션 신경망(CNN), 특징 벡터.
